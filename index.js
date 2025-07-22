@@ -51,12 +51,6 @@ export default {
             object: "model",
             created: 1640000000,
             owned_by: "deepseek-ai"
-          },
-          {
-            id: "deepseek-ai/DeepSeek-R1-Distill-Qwen-32B",
-            object: "model",
-            created: 1645000000,
-            owned_by: "deepseek-ai"
           }
         ]
       };
