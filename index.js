@@ -35,13 +35,13 @@ export default {
         object: "list",
         data: [
           {
-            id: "deepseek-ai/DeepSeek-R1",
+            id: "deepseek-ai/DeepSeek-R1-0528-Turbo",
             object: "model",
             created: 1624980000,
             owned_by: "deepseek-ai"
           },
           {
-            id: "deepseek-ai/DeepSeek-V3",
+            id: "deepseek-ai/DeepSeek-V3-0324-Turbo",
             object: "model",
             created: 1632000000,
             owned_by: "deepseek-ai"
