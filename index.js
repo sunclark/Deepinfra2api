@@ -51,6 +51,12 @@ export default {
             object: "model",
             created: 1640000000,
             owned_by: "deepseek-ai"
+          },
+          {
+            id: "deepseek-ai/DeepSeek-V3.1",
+            object: "model",
+            created: 1640000000,
+            owned_by: "deepseek-ai"
           }
         ]
       };
